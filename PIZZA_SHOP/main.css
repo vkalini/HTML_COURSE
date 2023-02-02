@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: rgb(245, 202, 184);
+    background-color: rgb(247, 188, 163);
     color: rgb(0, 0, 0);
 }
 
@@ -12,7 +12,7 @@ body {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: rgb(245, 202, 184);
+    background-color: rgb(247, 188, 163);
     overflow: hidden;
   }
   
